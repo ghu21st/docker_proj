@@ -2,4 +2,4 @@ Docker hub: ghu21
 
 Github: ghu21
 
-Docker images & Dockerfiles saved/kept update in Github for ramp up/study/learning projects only 
+The personal Docker images, Dockerfiles and related files were saved/kept/updated in Github or Docker hub just for ramp up/study/learning purpose only. 
